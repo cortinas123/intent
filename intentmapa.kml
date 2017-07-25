@@ -1,73 +1,60 @@
-<ns0:kml xmlns:ns0="http://www.opengis.net/kml/2.2">
-<ns0:Document><ns0:Folder><ns0:name>OGRGeoJSON</ns0:name>
-  <ns0:Placemark>
-	<ns0:Style><ns0:LineStyle><ns0:color>ff0000ff</ns0:color></ns0:LineStyle><ns0:PolyStyle><ns0:fill>0</ns0:fill></ns0:PolyStyle></ns0:Style>
-	<ns0:ExtendedData><ns0:SchemaData schemaUrl="#OGRGeoJSON">
-		<ns0:SimpleData name="OBJECTID">3957</ns0:SimpleData>
-		<ns0:SimpleData name="OWNER">NOT AVAILABLE</ns0:SimpleData>
-		<ns0:SimpleData name="STATUS">IN SERVICE</ns0:SimpleData>
-		<ns0:SimpleData name="VOLTAGE">500</ns0:SimpleData>
-		<ns0:SimpleData name="VOLTAGE_CLASS">500</ns0:SimpleData>
-		<ns0:SimpleData name="SOURCE">Western Electricity Coordinating Council https://www.wecc.biz/Reliability/YEAR%202014%20OC%20MAP-1.pdf</ns0:SimpleData>
-		<ns0:SimpleData name="SHAPE_Length">1.47242598053734</ns0:SimpleData>
-	</ns0:SchemaData></ns0:ExtendedData>
-      <ns0:LineString><ns0:coordinates>-121.3166,42.0061 -121.3168,42.002 -121.3164,41.9835 -121.3155,41.9475 -121.3114,41.9222 -121.3069,41.8942 -121.3038,41.8637 -121.3007,41.8352 -121.2976,41.8064 -121.2938,41.7704 -121.29,41.7343 -121.2905,41.7228 -121.2923,41.7164 -121.298,41.6994 -121.3112,41.6639 -121.3235,41.63 -121.3344,41.5959 -121.345,41.5623 -121.3617,41.5447 -121.3833,41.5218 -121.4077,41.4963 -121.4301,41.4722 -121.466,41.4346 -121.4811,41.4173 -121.5023,41.392 -121.518,41.3747 -121.5474,41.3385 -121.5655,41.3162 -121.5933,41.2819 -121.6191,41.2504 -121.6485,41.214 -121.6733,41.1836 -121.689,41.1644 -121.7294,41.1323 -121.7527,41.1139 -121.791,41.0835 -121.8108,41.0707 -121.8381,41.0703 -121.8692,41.0581 -121.8909,41.0353 -121.892,41.02 -121.9076,40.9832 -121.9159,40.9524 -121.9197,40.8982 -121.9136,40.8768 -121.917,40.8559 -121.912,40.8307 -121.9223,40.8206 -121.9348,40.8107 -121.9356,40.808</ns0:coordinates></ns0:LineString>
-  </ns0:Placemark>
-  <ns0:Placemark>
-	<ns0:Style><ns0:LineStyle><ns0:color>ff0000ff</ns0:color></ns0:LineStyle><ns0:PolyStyle><ns0:fill>0</ns0:fill></ns0:PolyStyle></ns0:Style>
-	<ns0:ExtendedData><ns0:SchemaData schemaUrl="#OGRGeoJSON">
-		<ns0:SimpleData name="OBJECTID">2</ns0:SimpleData>
-		<ns0:SimpleData name="OWNER">BONNEVILLE POWER ADMINISTRATION</ns0:SimpleData>
-		<ns0:SimpleData name="STATUS">IN SERVICE</ns0:SimpleData>
-		<ns0:SimpleData name="VOLTAGE">500</ns0:SimpleData>
-		<ns0:SimpleData name="VOLTAGE_CLASS">500</ns0:SimpleData>
-		<ns0:SimpleData name="SOURCE">http://gis.bpa.gov/ArcGIS/rest/services/BPAPublic/Transmission_Assets/MapServer</ns0:SimpleData>
-		<ns0:SimpleData name="SHAPE_Length">0.122029164127235</ns0:SimpleData>
-	</ns0:SchemaData></ns0:ExtendedData>
-      <ns0:LineString><ns0:coordinates>-121.3166,42.0061 -121.3173,42.0083 -121.3232,42.0222 -121.3344,42.045 -121.339,42.0553 -121.3574,42.0841 -121.3886,42.0812</ns0:coordinates></ns0:LineString>
-  </ns0:Placemark>
-  <ns0:Placemark>
-	<ns0:Style><ns0:LineStyle><ns0:color>ff0000ff</ns0:color></ns0:LineStyle><ns0:PolyStyle><ns0:fill>0</ns0:fill></ns0:PolyStyle></ns0:Style>
-	<ns0:ExtendedData><ns0:SchemaData schemaUrl="#OGRGeoJSON">
-		<ns0:SimpleData name="OBJECTID">3</ns0:SimpleData>
-		<ns0:SimpleData name="OWNER">PORTLAND GENERAL ELECTRIC COMPANY</ns0:SimpleData>
-		<ns0:SimpleData name="STATUS">IN SERVICE</ns0:SimpleData>
-		<ns0:SimpleData name="VOLTAGE">500</ns0:SimpleData>
-		<ns0:SimpleData name="VOLTAGE_CLASS">500</ns0:SimpleData>
-		<ns0:SimpleData name="SOURCE">http://www.oasis.oati.com/PGE/PGEdocs/PGE_Final_Near_Term_LTP_2014.pdf</ns0:SimpleData>
-		<ns0:SimpleData name="SHAPE_Length">0.985818252745059</ns0:SimpleData>
-	</ns0:SchemaData></ns0:ExtendedData>
-      <ns0:LineString><ns0:coordinates>-121.3166,42.0061 -121.3167,42.0084 -121.3177,42.012 -121.327,42.031 -121.3374,42.0525 -121.3852,42.1292 -121.3701,42.193 -121.3595,42.2185 -121.3376,42.2598 -121.3118,42.3075 -121.2671,42.3952 -121.258,42.4121 -121.249,42.4281 -121.2401,42.4409 -121.2213,42.4746 -121.1881,42.5408 -121.1766,42.5637 -121.1621,42.6135 -121.1472,42.6809 -121.0899,42.7274 -121.0279,42.794 -120.9955,42.8415 -120.9872,42.8535</ns0:coordinates></ns0:LineString>
-  </ns0:Placemark>
-  <ns0:Placemark>
-	<ns0:Style><ns0:LineStyle><ns0:color>ff0000ff</ns0:color></ns0:LineStyle><ns0:PolyStyle><ns0:fill>0</ns0:fill></ns0:PolyStyle></ns0:Style>
-	<ns0:ExtendedData><ns0:SchemaData schemaUrl="#OGRGeoJSON">
-		<ns0:SimpleData name="OBJECTID">4</ns0:SimpleData>
-		<ns0:SimpleData name="OWNER">PACIFICORP</ns0:SimpleData>
-		<ns0:SimpleData name="STATUS">IN SERVICE</ns0:SimpleData>
-		<ns0:SimpleData name="VOLTAGE">500</ns0:SimpleData>
-		<ns0:SimpleData name="VOLTAGE_CLASS">500</ns0:SimpleData>
-		<ns0:SimpleData name="SOURCE">http://www.oasis.oati.com/PPW/PPWdocs/Transmission_Network_Diagram.pdf</ns0:SimpleData>
-		<ns0:SimpleData name="SHAPE_Length">0.986727782457808</ns0:SimpleData>
-	</ns0:SchemaData></ns0:ExtendedData>
-      <ns0:LineString><ns0:coordinates>-121.3166,42.0061 -121.3161,42.0086 -121.3172,42.0121 -121.3268,42.0314 -121.3372,42.0532 -121.3477,42.0706 -121.3847,42.1291 -121.3697,42.1928 -121.3601,42.2164 -121.3371,42.2596 -121.3266,42.2784 -121.2756,42.3756 -121.2642,42.4005 -121.2497,42.4262 -121.2427,42.4363 -121.2323,42.4515 -121.2077,42.5005 -121.1824,42.5511 -121.1699,42.5759 -121.1487,42.6722 -121.1208,42.7016 -121.0522,42.7575 -120.999,42.8357 -120.9943,42.8419 -120.9865,42.8521</ns0:coordinates></ns0:LineString>
-  </ns0:Placemark>
-  <ns0:Placemark>
-	<ns0:Style><ns0:LineStyle><ns0:color>ff0000ff</ns0:color></ns0:LineStyle><ns0:PolyStyle><ns0:fill>0</ns0:fill></ns0:PolyStyle></ns0:Style>
-	<ns0:ExtendedData><ns0:SchemaData schemaUrl="#OGRGeoJSON">
-		<ns0:SimpleData name="OBJECTID">5</ns0:SimpleData>
-		<ns0:SimpleData name="OWNER">PACIFICORP</ns0:SimpleData>
-		<ns0:SimpleData name="STATUS">IN SERVICE</ns0:SimpleData>
-		<ns0:SimpleData name="VOLTAGE">500</ns0:SimpleData>
-		<ns0:SimpleData name="VOLTAGE_CLASS">500</ns0:SimpleData>
-		<ns0:SimpleData name="SOURCE">http://www.oasis.oati.com/PPW/PPWdocs/131114_New_Transmission_Wall_Map_(Patrick_Gronli).pdf</ns0:SimpleData>
-		<ns0:SimpleData name="SHAPE_Length">1.47278564825467</ns0:SimpleData>
-	</ns0:SchemaData></ns0:ExtendedData>
-      <ns0:LineString><ns0:coordinates>-121.3166,42.0061 -121.3162,42.0024 -121.3158,41.9838 -121.3149,41.9475 -121.3113,41.9247 -121.3064,41.8942 -121.3029,41.8618 -121.3003,41.8366 -121.297,41.8064 -121.2935,41.7713 -121.2903,41.7418 -121.2896,41.7244 -121.2917,41.7165 -121.2975,41.6993 -121.3103,41.6644 -121.323,41.6295 -121.3339,41.5956 -121.3444,41.5621 -121.3613,41.5445 -121.3829,41.5216 -121.4073,41.496 -121.4297,41.472 -121.4656,41.4344 -121.4806,41.4171 -121.5019,41.3918 -121.5175,41.3745 -121.5469,41.3383 -121.5651,41.316 -121.5929,41.2817 -121.6186,41.2502 -121.648,41.2138 -121.6728,41.1834 -121.6886,41.1641 -121.7291,41.1319 -121.7524,41.1135 -121.7907,41.0832 -121.8109,41.0702 -121.8381,41.0697 -121.869,41.0576 -121.8902,41.0353 -121.8914,41.0203 -121.907,40.9831 -121.9152,40.9527 -121.919,40.8987 -121.9129,40.8773 -121.9163,40.8563 -121.9113,40.831 -121.922,40.8203 -121.9342,40.8104 -121.9356,40.808</ns0:coordinates></ns0:LineString>
-  </ns0:Placemark>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style id="west_campus_style">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[video]</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Google West Campus 1</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.0914977709329,37.42390182131783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Google West Campus 2</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/nb4gvrNrDWw" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.0926995893311,37.42419403634421,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Google West Campus 3</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/0hhiEjf7_NA" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.0922532985281,37.42301710721216,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
 
-
-
-  </ns0:Folder>
-
-</ns0:Document></ns0:kml>
