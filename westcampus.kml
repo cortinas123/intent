@@ -55,30 +55,7 @@
         <coordinates>-122.0922532985281,37.42301710721216,0</coordinates>
       </Point>
     </Placemark>
-	  
-	  
-	<Placemark>
-      <name>Google West Campus 3</name>
-      <styleUrl>#west_campus_style</styleUrl>
-      <ExtendedData>
-        <Data name="video">
-          <value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/0hhiEjf7_NA" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>-73.989308,40.741895,0</coordinates>
-      </Point>
-    </Placemark>
-	  
-
-	  
-	  
-	  
-	  
-	  
-  </Placemark>
-    
+ 
+	      
   </Document>
 </kml>
