@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style id="west_campus_style">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[video]</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Google West Campus 1</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.0914977709329,37.42390182131783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Google West Campus 2</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://www.youtube.com/embed/nb4gvrNrDWw" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.0926995893311,37.42419403634421,0</coordinates>
+      </Point>
+    </Placemark>
+	  
+    <Placemark>
+	<name>Google West Campus 2</name>
+      	<LineString><coordinates>-114.4206,42.8357 -114.4188,42.8363 -114.4088,42.8385 -114.3893,42.8361 -114.3621,42.8326 -114.3395,42.8298 -114.3075,42.8257 -114.2831,42.8226 -114.2609,42.8197 -114.2372,42.8167 -114.2156,42.8139 -114.1906,42.8107 -114.1464,42.805 -114.0879,42.7974 -114.051,42.7927 -114.0155,42.7881 -113.9769,42.783 -113.9577,42.7805 -113.9033,42.7734 -113.8666,42.7686 -113.8364,42.7645 -113.8123,42.7614 -113.7807,42.7571 -113.7514,42.7532 -113.7216,42.7493 -113.6872,42.7447</coordinates></LineString>
+    </Placemark>
+  </Document>
+</kml>
