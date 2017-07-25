@@ -62,7 +62,7 @@
 		
 		<SimpleData name="OWNER">IDAHO POWER COMPANY</SimpleData>
 		<SimpleData name="STATUS">NOT AVAILABLE</SimpleData>
-		<ns0:SimpleData name="VOLTAGE">345</SimpleData>
+		<SimpleData name="VOLTAGE">345</SimpleData>
 		<SimpleData name="VOLTAGE_CLASS">345</SimpleData>
 		<SimpleData name="SOURCE">Company Map</SimpleData>
 		<SimpleData name="SHAPE_Length">0.741028631687959</SimpleData>
