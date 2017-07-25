@@ -57,7 +57,7 @@
     </Placemark>
 	  
 	  
-	      <Placemark>
+	<Placemark>
       <name>Google West Campus 3</name>
       <styleUrl>#west_campus_style</styleUrl>
       <ExtendedData>
@@ -68,7 +68,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>-112.0922532985281,37.42301710721216,0</coordinates>
+        <coordinates>-73.989308,40.741895,0</coordinates>
       </Point>
     </Placemark>
 	  
