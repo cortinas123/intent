@@ -2,6 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>KmlFile</name>
+	  
     <Style id="west_campus_style">
       <IconStyle>
         <Icon>
@@ -10,7 +11,7 @@
         </Icon>
       </IconStyle>
       <BalloonStyle>
-        <text>$[video]</text>
+        <text>cxvfdg</text>
       </BalloonStyle>
     </Style>
    
@@ -38,7 +39,7 @@
 	  
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+	<ExtendedData>
 		<SimpleData name="OBJECTID">3957</SimpleData>
 		<SimpleData name="OWNER">NOT AVAILABLE</SimpleData>
 		<SimpleData name="STATUS">IN SERVICE</SimpleData>
@@ -46,7 +47,7 @@
 		<SimpleData name="VOLTAGE_CLASS">500</SimpleData>
 		<SimpleData name="SOURCE">Western Electricity Coordinating Council https://www.wecc.biz/Reliability/YEAR%202014%20OC%20MAP-1.pdf</SimpleData>
 		<SimpleData name="SHAPE_Length">1.47242598053734</SimpleData>
-	</SchemaData></ExtendedData>
+	  </ExtendedData>
       <LineString><coordinates>-121.3166,42.0061 -121.3168,42.002 -121.3164,41.9835 -121.3155,41.9475 -121.3114,41.9222 -121.3069,41.8942 -121.3038,41.8637 -121.3007,41.8352 -121.2976,41.8064 -121.2938,41.7704 -121.29,41.7343 -121.2905,41.7228 -121.2923,41.7164 -121.298,41.6994 -121.3112,41.6639 -121.3235,41.63 -121.3344,41.5959 -121.345,41.5623 -121.3617,41.5447 -121.3833,41.5218 -121.4077,41.4963 -121.4301,41.4722 -121.466,41.4346 -121.4811,41.4173 -121.5023,41.392 -121.518,41.3747 -121.5474,41.3385 -121.5655,41.3162 -121.5933,41.2819 -121.6191,41.2504 -121.6485,41.214 -121.6733,41.1836 -121.689,41.1644 -121.7294,41.1323 -121.7527,41.1139 -121.791,41.0835 -121.8108,41.0707 -121.8381,41.0703 -121.8692,41.0581 -121.8909,41.0353 -121.892,41.02 -121.9076,40.9832 -121.9159,40.9524 -121.9197,40.8982 -121.9136,40.8768 -121.917,40.8559 -121.912,40.8307 -121.9223,40.8206 -121.9348,40.8107 -121.9356,40.808</coordinates></LineString>
   </Placemark>
   <Placemark>
