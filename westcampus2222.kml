@@ -16,7 +16,7 @@
 
 	  
     <Placemark>
-	    <Style id="transBluePoly">
+	    <Style>
 		     <LineStyle>      <width>1.5</width>       </LineStyle>    
 		    <PolyStyle>         <color>501478DC</color>    </PolyStyle>
             </Style>
