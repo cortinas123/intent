@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+	  
+ <Style id="red">
+      <LineStyle>
+        <width>1.5</width>
+	<color>5f143CD2</color>
+      </LineStyle>  
+      
+  </Style>
+	  
+
+	  
+    <Placemark> 
+	<Style >
+     		 <LineStyle>
+        		<width>1.5</width>
+			<color>2dFA783C</color>
+	      	</LineStyle>  
+      	</Style>
+	
+	<name>Google West Campus 2</name>
+      	<LineString><coordinates>-116.4206,40.8357 -114.4188,42.8363 -114.4088,42.8385 -114.3893,42.8361 -114.3621,42.8326 -114.3395,42.8298 </coordinates></LineString>
+    </Placemark>
+	  
+ <Placemark>
+	 <Style>
+      		<LineStyle>
+        		<width>1.5</width>
+			<color>2d1400FA</color>
+      		</LineStyle>     
+ 	 </Style>	  
+	<name>Google West Campus 2</name>
+      	<LineString><coordinates>-116.4206,40.8357 -102.4188,40.8363 -102.4088,39.1385 -102.3893,40.8361 -114.021,41.8326 -114.0395,42.0298 </coordinates></LineString>
+    </Placemark>
+	  
+
+	  
+  </Document>
+</kml>
