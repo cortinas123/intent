@@ -33,7 +33,7 @@
       		</LineStyle>     
  	 </Style>	  
 	<name>Google West Campus 2</name>
-      	<LineString><coordinates>-116.4206,40.8357 -102.4188,40.8363 -102.4088,39.1385 -102.3893,40.8361 -114.021,41.8326 -114.0395,42.0298 </coordinates></LineString>
+      	<LineString><coordinates>-102.42,35.8357 -102.4188,35.8363 -102.4088,35.1385 -102.3893,35.8361 -114.021,35.8326 -114.0395,35.0298 </coordinates></LineString>
     </Placemark>
 	  
 
